@@ -24,5 +24,5 @@ This Jupyter notebook is designed to manage and visualize student shift schedule
 ## ▶️ How to Use
 
 1. Ensure the file `student_shifts.csv` is present in the same directory.
-2. Open and run `Ttcm_shifts.ipynb` step-by-step in Jupyter Notebook.
+2. Open and run `tcm_shifts.ipynb` step-by-step in Jupyter Notebook.
 3. Review the final schedule and visual reports for each student's shift participation.
