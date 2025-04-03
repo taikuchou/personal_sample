@@ -1,5 +1,3 @@
-# 📘 TCM_Shifts.ipynb
-
 ## 🧾 Project Overview
 
 This Jupyter notebook is designed to manage and visualize student shift schedules for Traditional Chinese Medicine (TCM) clinical practice. It handles loading, assigning, and analyzing student responsibilities across multiple weeks while ensuring fairness and avoiding conflicts due to absences.
